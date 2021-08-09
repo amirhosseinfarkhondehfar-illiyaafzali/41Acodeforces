@@ -14,7 +14,7 @@ int main()
         sss+=ss[i];
     }
     if(s==sss){
-            std::cout << "YEgit S" << std::endl;
+            std::cout << "YES" << std::endl;
  
     }
     else
